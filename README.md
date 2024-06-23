@@ -13,7 +13,7 @@
 из этого репозитория.
 - [x] Установить и удалить _deb-пакет_ с помощью `dpkg`.
 - [x] Выложить историю команд терминала **Ubuntu**.
-* [**История команд**](https://github.com/Isaev63/Isaev63-final_cw_specialization_block/blob/main/history_linux_commands.txt)
+* [**История команд**](https://github.com/Isaev63/final_cw_specialization_block/blob/main/history_linux_commands.txt)
 
 ==============================
 
@@ -25,9 +25,9 @@
 в составы которых, в случае домашних животных войдут классы: 
 собаки, кошки, хомяки, а в класс вьючные животные войдут: лошади, верблюды и ослы.
 
-![Диаграмма классов](https://raw.githubusercontent.com/Isaev63/Isaev63-final_cw_specialization_block/main/class_diagram.png)
+![Диаграмма классов](https://raw.githubusercontent.com/Isaev63/final_cw_specialization_block/main/class_diagram.png)
 
-![ER диаграмма](https://raw.githubusercontent.com/Isaev63/Isaev63-final_cw_specialization_block/main/diagram_ER.png)
+![ER диаграмма](https://raw.githubusercontent.com/Isaev63/final_cw_specialization_block/main/diagram_ER.png)
 
 - [x] В подключенном **MySQL** репозитории создать базу данных “Друзья
 человека”
@@ -41,7 +41,7 @@
 до месяца подсчитать возраст животных в новой таблице
 - [x] Объединить все таблицы в одну, при этом сохраняя поля, указывающие на
 прошлую принадлежность к старым таблицам.
-* [**Полный SQL скрипт**](https://github.com/Isaev63/Isaev63-final_cw_specialization_block/blob/main/db_cw.sql)
+* [**Полный SQL скрипт**](https://github.com/Isaev63/final_cw_specialization_block/blob/main/db_cw.sql)
 
 ==============================
 
@@ -62,6 +62,6 @@
 блоке `try-with-resources`. Нужно бросить исключение, если работа с объектом
 типа счетчик была не в ресурсном `try` и/или ресурс остался открыт. Значение
 считать в ресурсе `try`, если при заведении животного заполнены все поля.
-* [**Код программы**](https://github.com/Isaev63/Isaev63-final_cw_specialization_block/tree/main/Animals)
+* [**Код программы**](https://github.com/Isaev63/final_cw_specialization_block/tree/main/Animals)
 
 ==============================
