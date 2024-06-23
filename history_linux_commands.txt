@@ -1,0 +1,26 @@
+ 1024  cat > Pets.txt
+ 1025  cat > PackAnimals.txt
+ 1026  cat Pets.txt
+ 1027  cat PackAnimals.txt
+ 1028  cat Pets.txt PackAnimals.txt > HumanFriends.txt
+ 1029  cat HumanFriends.txt
+ 1050  mkdir human_friends | mv HumanFriends.txt ~/human_friends
+ 1052  tree human_friends
+ 1053  cat human_friends/HumanFriends.txt
+ 1054  history | tail -n 20 >> history
+ 1056  wget https://dev.mysql.com/get/mysql-apt-config_0.8.30-1_all.deb
+ 1057  sudo dpkg -i mysql-apt-config_0.8.30-1_all.deb
+ 1058  sudo apt update
+ 1059  clear
+ 1060  sudo apt search mysql | grep 'server'
+ 1061  sudo apt install mysql-server -y
+ 1065  sudo systemctl status mysql
+ 1074  history | tail -n 20 >> history
+ 1114  nano history
+ 1115  clear
+ 1116  cd Загрузки
+ 1117  sudo dpkg -i google-chrome-stable_current_amd64.deb
+ 1118  sudo apt install -f
+ 1126  dpkg -l | grep 'google'
+ 1127  sudo dpkg -r google-chrome-stable
+ 1128  sudo apt autoremove
