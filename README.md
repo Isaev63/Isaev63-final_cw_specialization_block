@@ -62,6 +62,6 @@
 блоке `try-with-resources`. Нужно бросить исключение, если работа с объектом
 типа счетчик была не в ресурсном `try` и/или ресурс остался открыт. Значение
 считать в ресурсе `try`, если при заведении животного заполнены все поля.
-[**Код программы**](https://github.com/Isaev63/Isaev63-final_cw_specialization_block/tree/main/Animals)
+* [**Код программы**](https://github.com/Isaev63/Isaev63-final_cw_specialization_block/tree/main/Animals)
 
 ==============================
